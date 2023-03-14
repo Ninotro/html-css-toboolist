@@ -1,0 +1,77 @@
+/* regole principali */
+ * { margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: inherit;
+    
+    
+    /* Header */
+ }
+ header {
+    background-color: white;
+    padding-left: 20px;
+    padding-top: 10px;
+    display: inline-block;
+    width: 100%;
+    
+
+       
+}
+
+#title {display: inline-block;
+    
+        
+
+}
+
+#logo {
+    width: 60px;
+    height: auto;
+    
+}
+
+/* body */
+body {background-color: #F6F8F9;}
+
+#main-part {
+    
+    background-color: white;
+    height: 100%;
+    width: auto;
+    margin: 5% 20%;
+
+}
+
+#button-menu {
+    padding-left: 40px;
+    padding-top: 20px;
+    border-bottom: #F6F8F9 solid 1px;
+    margin-bottom: 5px;
+}
+#button1 {
+    margin-bottom: 10px;
+    margin-right: 5px;
+    background-color: #47ADF1;
+    height: 35px;
+    width: 80px;
+    border-radius: 10%;
+    color: white;
+    font-size: 15px;
+    font-weight: 500;
+    border: 2px solid #47ADF1;
+}
+
+#button2 {
+    margin-bottom: 5px;
+    margin-right: 5px;
+    background-color:white;
+    height: 35px;
+    width: 90px;
+    border-radius: 10%;
+    color: #E7E9EC;
+    font-size: 15px;
+    font-weight: 500;
+    border: 2px solid #E7E9EC;
+
+}
+
